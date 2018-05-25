@@ -36,3 +36,4 @@ should default to "Mutt".
 Submit your solution with `learn submit`.
 
 <p data-visibility='hidden'>KWK-L1 Ruby Object Initialize Lab</p>
+
